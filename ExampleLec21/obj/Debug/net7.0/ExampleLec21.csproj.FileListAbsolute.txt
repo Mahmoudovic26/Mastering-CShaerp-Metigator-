@@ -1,0 +1,15 @@
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/bin/Debug/net7.0/ExampleLec21
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/bin/Debug/net7.0/ExampleLec21.deps.json
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/bin/Debug/net7.0/ExampleLec21.runtimeconfig.json
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/bin/Debug/net7.0/ExampleLec21.dll
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/bin/Debug/net7.0/ExampleLec21.pdb
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.csproj.AssemblyReference.cache
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.GeneratedMSBuildEditorConfig.editorconfig
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.AssemblyInfoInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.AssemblyInfo.cs
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.csproj.CoreCompileInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.dll
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/refint/ExampleLec21.dll
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.pdb
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ExampleLec21.genruntimeconfig.cache
+/media/bayoumi/new/ubuntu/dotnetp/ExampleLec21/obj/Debug/net7.0/ref/ExampleLec21.dll

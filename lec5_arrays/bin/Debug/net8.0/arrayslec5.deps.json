@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arrayslec5/1.0.0": {
+        "runtime": {
+          "arrayslec5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arrayslec5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

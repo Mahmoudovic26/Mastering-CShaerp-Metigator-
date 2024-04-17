@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\bin\Debug\net8.0\Dictionaries.exe
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\bin\Debug\net8.0\Dictionaries.deps.json
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\bin\Debug\net8.0\Dictionaries.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\bin\Debug\net8.0\Dictionaries.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\bin\Debug\net8.0\Dictionaries.pdb
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\refint\Dictionaries.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.pdb
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\Dictionaries.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Dictionaries\obj\Debug\net8.0\ref\Dictionaries.dll

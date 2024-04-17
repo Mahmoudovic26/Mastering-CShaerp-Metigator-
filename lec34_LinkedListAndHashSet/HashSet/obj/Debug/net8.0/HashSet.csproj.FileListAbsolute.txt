@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\bin\Debug\net8.0\HashSet.exe
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\bin\Debug\net8.0\HashSet.deps.json
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\bin\Debug\net8.0\HashSet.runtimeconfig.json
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\bin\Debug\net8.0\HashSet.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\bin\Debug\net8.0\HashSet.pdb
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.AssemblyInfo.cs
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\refint\HashSet.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.pdb
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\HashSet.genruntimeconfig.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\HashSet\obj\Debug\net8.0\ref\HashSet.dll

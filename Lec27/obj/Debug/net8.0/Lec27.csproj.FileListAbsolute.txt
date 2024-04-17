@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec27\bin\Debug\net8.0\Lec27.exe
+E:\ubuntu\dotnetp\Lec27\bin\Debug\net8.0\Lec27.deps.json
+E:\ubuntu\dotnetp\Lec27\bin\Debug\net8.0\Lec27.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec27\bin\Debug\net8.0\Lec27.dll
+E:\ubuntu\dotnetp\Lec27\bin\Debug\net8.0\Lec27.pdb
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.dll
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\refint\Lec27.dll
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.pdb
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\Lec27.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec27\obj\Debug\net8.0\ref\Lec27.dll

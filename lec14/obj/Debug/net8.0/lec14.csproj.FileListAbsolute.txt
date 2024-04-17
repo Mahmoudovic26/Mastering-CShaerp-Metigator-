@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\lec14\bin\Debug\net8.0\lec14.exe
+E:\ubuntu\dotnetp\lec14\bin\Debug\net8.0\lec14.deps.json
+E:\ubuntu\dotnetp\lec14\bin\Debug\net8.0\lec14.runtimeconfig.json
+E:\ubuntu\dotnetp\lec14\bin\Debug\net8.0\lec14.dll
+E:\ubuntu\dotnetp\lec14\bin\Debug\net8.0\lec14.pdb
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.AssemblyInfo.cs
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.dll
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\refint\lec14.dll
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.pdb
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\lec14.genruntimeconfig.cache
+E:\ubuntu\dotnetp\lec14\obj\Debug\net8.0\ref\lec14.dll

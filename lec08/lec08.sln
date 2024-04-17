@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lec08", "lec08.csproj", "{33DE2A19-7203-4B88-AD94-30A81B475884}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lec09", "..\lec09\lec09.csproj", "{FCC83876-8FFE-47CB-9071-A004F9168E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33DE2A19-7203-4B88-AD94-30A81B475884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33DE2A19-7203-4B88-AD94-30A81B475884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33DE2A19-7203-4B88-AD94-30A81B475884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33DE2A19-7203-4B88-AD94-30A81B475884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCC83876-8FFE-47CB-9071-A004F9168E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCC83876-8FFE-47CB-9071-A004F9168E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCC83876-8FFE-47CB-9071-A004F9168E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCC83876-8FFE-47CB-9071-A004F9168E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7808C522-208B-488C-BDEF-2D4A898B98CB}
+	EndGlobalSection
+EndGlobal

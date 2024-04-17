@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec33\Queue\bin\Debug\net8.0\Queue.exe
+E:\ubuntu\dotnetp\Lec33\Queue\bin\Debug\net8.0\Queue.deps.json
+E:\ubuntu\dotnetp\Lec33\Queue\bin\Debug\net8.0\Queue.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec33\Queue\bin\Debug\net8.0\Queue.dll
+E:\ubuntu\dotnetp\Lec33\Queue\bin\Debug\net8.0\Queue.pdb
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.dll
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\refint\Queue.dll
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.pdb
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\Queue.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec33\Queue\obj\Debug\net8.0\ref\Queue.dll

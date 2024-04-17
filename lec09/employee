@@ -1,0 +1,41 @@
+Employee[] emps = new Employee[2];
+
+            System.Console.Write("Tax: ");
+            Employee.TAX = Convert.ToDouble(Console.ReadLine());
+            Employee.TAX = Employee.TAX/100;
+            
+            Employee e1 = new Employee();
+            System.Console.Write("\nFirst Name: ");
+            e1.FName = Console.ReadLine();
+
+            System.Console.Write("Last Name: ");
+            e1.LName = Console.ReadLine();
+
+            Console.Write("Wage: ");
+            e1.Wage = Convert.ToDouble(Console.ReadLine());
+            
+            Console.Write("Logged hors: ");
+            e1.LoggedHours  = Convert.ToDouble(Console.ReadLine());
+            
+            emps[0] = e1;
+
+            Employee e2 = new Employee();
+            System.Console.Write("\nFirst Name: ");
+            e2.FName = Console.ReadLine();
+
+            System.Console.Write("Last Name: ");
+            e2.LName = Console.ReadLine();
+
+            Console.Write("Wage: ");
+            e2.Wage = Convert.ToDouble(Console.ReadLine());
+            
+            Console.Write("Logged hors: ");
+            e2.LoggedHours  = Convert.ToDouble(Console.ReadLine());
+            emps[1]  = e2;
+            foreach(var emp in emps)
+            {
+                var TaxAmount = ((emp.Wage * emp.LoggedHours)*Employee.TAX);
+                var netSalary  = (emp.Wage * emp.LoggedHours) - TaxAmount;
+                System.Console.WriteLine("-----------------------------");
+                Console.WriteLine($"\n First Name: {emp.FName}\n Last Name: {emp.LName} \n Wage: {emp.Wage} \n logged hours: {emp.LoggedHours}\n Tax: {Employee.TAX*100}% \nSalary: {netSalary} ");
+            }

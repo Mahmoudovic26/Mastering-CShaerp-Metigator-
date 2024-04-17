@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\bin\Debug\net8.0\Lists.exe
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\bin\Debug\net8.0\Lists.deps.json
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\bin\Debug\net8.0\Lists.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\bin\Debug\net8.0\Lists.pdb
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\refint\Lists.dll
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.pdb
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec32\Collections\Lists\obj\Debug\net8.0\ref\Lists.dll

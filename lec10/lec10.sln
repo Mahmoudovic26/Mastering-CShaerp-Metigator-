@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lec10", "lec10.csproj", "{92FA1829-28A5-4988-8AB9-4647623EFFC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92FA1829-28A5-4988-8AB9-4647623EFFC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92FA1829-28A5-4988-8AB9-4647623EFFC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92FA1829-28A5-4988-8AB9-4647623EFFC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92FA1829-28A5-4988-8AB9-4647623EFFC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF1D758B-42A6-45E0-A988-E5D6E157C976}
+	EndGlobalSection
+EndGlobal

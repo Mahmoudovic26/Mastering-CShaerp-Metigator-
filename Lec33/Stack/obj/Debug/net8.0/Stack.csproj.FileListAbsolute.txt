@@ -1,0 +1,14 @@
+e:\ubuntu\dotnetp\Lec33\Stack\bin\Debug\net8.0\Stack.exe
+e:\ubuntu\dotnetp\Lec33\Stack\bin\Debug\net8.0\Stack.deps.json
+e:\ubuntu\dotnetp\Lec33\Stack\bin\Debug\net8.0\Stack.runtimeconfig.json
+e:\ubuntu\dotnetp\Lec33\Stack\bin\Debug\net8.0\Stack.dll
+e:\ubuntu\dotnetp\Lec33\Stack\bin\Debug\net8.0\Stack.pdb
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.AssemblyInfoInputs.cache
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.AssemblyInfo.cs
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.csproj.CoreCompileInputs.cache
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.dll
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\refint\Stack.dll
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.pdb
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\Stack.genruntimeconfig.cache
+e:\ubuntu\dotnetp\Lec33\Stack\obj\Debug\net8.0\ref\Stack.dll

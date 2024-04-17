@@ -1,0 +1,15 @@
+/media/bayoumi/new/ubuntu/dotnetp/lec16/bin/Debug/net7.0/lec16
+/media/bayoumi/new/ubuntu/dotnetp/lec16/bin/Debug/net7.0/lec16.deps.json
+/media/bayoumi/new/ubuntu/dotnetp/lec16/bin/Debug/net7.0/lec16.runtimeconfig.json
+/media/bayoumi/new/ubuntu/dotnetp/lec16/bin/Debug/net7.0/lec16.dll
+/media/bayoumi/new/ubuntu/dotnetp/lec16/bin/Debug/net7.0/lec16.pdb
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.csproj.AssemblyReference.cache
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.GeneratedMSBuildEditorConfig.editorconfig
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.AssemblyInfoInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.AssemblyInfo.cs
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.csproj.CoreCompileInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.dll
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/refint/lec16.dll
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.pdb
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/lec16.genruntimeconfig.cache
+/media/bayoumi/new/ubuntu/dotnetp/lec16/obj/Debug/net7.0/ref/lec16.dll

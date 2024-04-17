@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lec17/1.0.0": {
+        "dependencies": {
+          "CustomLib": "1.0.0",
+          "lib": "1.0.0"
+        },
+        "runtime": {
+          "Lec17.dll": {}
+        }
+      },
+      "CustomLib/1.0.0": {
+        "runtime": {
+          "CustomLib.dll": {}
+        }
+      },
+      "lib/1.0.0": {
+        "runtime": {
+          "lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lec17/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CustomLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

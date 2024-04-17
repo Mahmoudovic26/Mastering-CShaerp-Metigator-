@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec30\bin\Debug\net8.0\Lec30.exe
+E:\ubuntu\dotnetp\Lec30\bin\Debug\net8.0\Lec30.deps.json
+E:\ubuntu\dotnetp\Lec30\bin\Debug\net8.0\Lec30.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec30\bin\Debug\net8.0\Lec30.dll
+E:\ubuntu\dotnetp\Lec30\bin\Debug\net8.0\Lec30.pdb
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.dll
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\refint\Lec30.dll
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.pdb
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\Lec30.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec30\obj\Debug\net8.0\ref\Lec30.dll

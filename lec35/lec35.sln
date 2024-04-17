@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lec35", "lec35.csproj", "{1CF9EF88-1EF2-436D-BC0E-EEF876DC016E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1CF9EF88-1EF2-436D-BC0E-EEF876DC016E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CF9EF88-1EF2-436D-BC0E-EEF876DC016E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CF9EF88-1EF2-436D-BC0E-EEF876DC016E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CF9EF88-1EF2-436D-BC0E-EEF876DC016E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38494318-A0D5-4A13-8E2C-1051DCA795D1}
+	EndGlobalSection
+EndGlobal

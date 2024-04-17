@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec22\bin\Debug\net8.0\Lec22.exe
+E:\ubuntu\dotnetp\Lec22\bin\Debug\net8.0\Lec22.deps.json
+E:\ubuntu\dotnetp\Lec22\bin\Debug\net8.0\Lec22.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec22\bin\Debug\net8.0\Lec22.dll
+E:\ubuntu\dotnetp\Lec22\bin\Debug\net8.0\Lec22.pdb
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.dll
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\refint\Lec22.dll
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.pdb
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\Lec22.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec22\obj\Debug\net8.0\ref\Lec22.dll

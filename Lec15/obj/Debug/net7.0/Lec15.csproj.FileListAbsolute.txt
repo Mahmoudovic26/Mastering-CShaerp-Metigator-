@@ -1,0 +1,15 @@
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/bin/Debug/net7.0/Lec15
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/bin/Debug/net7.0/Lec15.deps.json
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/bin/Debug/net7.0/Lec15.runtimeconfig.json
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/bin/Debug/net7.0/Lec15.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/bin/Debug/net7.0/Lec15.pdb
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.csproj.AssemblyReference.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.GeneratedMSBuildEditorConfig.editorconfig
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.AssemblyInfoInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.AssemblyInfo.cs
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.csproj.CoreCompileInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/refint/Lec15.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.pdb
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/Lec15.genruntimeconfig.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec15/obj/Debug/net7.0/ref/Lec15.dll

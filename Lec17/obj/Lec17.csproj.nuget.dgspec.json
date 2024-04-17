@@ -1,0 +1,174 @@
+{
+  "format": 1,
+  "restore": {
+    "/media/bayoumi/new/ubuntu/dotnetp/Lec17/Lec17.csproj": {}
+  },
+  "projects": {
+    "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/CustomLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/CustomLib.csproj",
+        "projectName": "CustomLib",
+        "projectPath": "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/CustomLib.csproj",
+        "packagesPath": "/home/bayoumi/.nuget/packages/",
+        "outputPath": "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bayoumi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/bayoumi/new/ubuntu/dotnetp/Lec17/Lec17.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/bayoumi/new/ubuntu/dotnetp/Lec17/Lec17.csproj",
+        "projectName": "Lec17",
+        "projectPath": "/media/bayoumi/new/ubuntu/dotnetp/Lec17/Lec17.csproj",
+        "packagesPath": "/home/bayoumi/.nuget/packages/",
+        "outputPath": "/media/bayoumi/new/ubuntu/dotnetp/Lec17/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bayoumi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/CustomLib.csproj": {
+                "projectPath": "/media/bayoumi/new/ubuntu/dotnetp/CustomLib/CustomLib.csproj"
+              },
+              "/media/bayoumi/new/ubuntu/dotnetp/lib/lib.csproj": {
+                "projectPath": "/media/bayoumi/new/ubuntu/dotnetp/lib/lib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/media/bayoumi/new/ubuntu/dotnetp/lib/lib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/media/bayoumi/new/ubuntu/dotnetp/lib/lib.csproj",
+        "projectName": "lib",
+        "projectPath": "/media/bayoumi/new/ubuntu/dotnetp/lib/lib.csproj",
+        "packagesPath": "/home/bayoumi/.nuget/packages/",
+        "outputPath": "/media/bayoumi/new/ubuntu/dotnetp/lib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/bayoumi/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.115/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

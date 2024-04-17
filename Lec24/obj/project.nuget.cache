@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/QtMkV74XAdr9MExEG0BuuHsAXFsqA0OXqhu0kqQaOL9mNVj0keaiNi6x3cGkYOXLBCH0JVN2LYOk/I5m5SgVA==",
+  "success": true,
+  "projectFilePath": "E:\\ubuntu\\dotnetp\\Lec24\\Lec24.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hodao\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\hodao\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\hodao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\hodao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

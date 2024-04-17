@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\bin\Debug\net8.0\LinkedList.exe
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\bin\Debug\net8.0\LinkedList.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+E:\ubuntu\dotnetp\LinkedListAndHashSet\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

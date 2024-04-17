@@ -1,0 +1,14 @@
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.GeneratedMSBuildEditorConfig.editorconfig
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.AssemblyInfoInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.AssemblyInfo.cs
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.csproj.CoreCompileInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/bin/Debug/net8.0/arrayslec5
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/bin/Debug/net8.0/arrayslec5.deps.json
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/bin/Debug/net8.0/arrayslec5.runtimeconfig.json
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/bin/Debug/net8.0/arrayslec5.dll
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/bin/Debug/net8.0/arrayslec5.pdb
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.dll
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/refint/arrayslec5.dll
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.pdb
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/arrayslec5.genruntimeconfig.cache
+/media/bayoumi/new/ubuntu/dotnetp/arrayslec5/obj/Debug/net8.0/ref/arrayslec5.dll

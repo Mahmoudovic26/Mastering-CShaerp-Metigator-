@@ -1,0 +1,15 @@
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/bin/Debug/net7.0/Lec28
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/bin/Debug/net7.0/Lec28.deps.json
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/bin/Debug/net7.0/Lec28.runtimeconfig.json
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/bin/Debug/net7.0/Lec28.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/bin/Debug/net7.0/Lec28.pdb
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.csproj.AssemblyReference.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.GeneratedMSBuildEditorConfig.editorconfig
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.AssemblyInfoInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.AssemblyInfo.cs
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.csproj.CoreCompileInputs.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/refint/Lec28.dll
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.pdb
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/Lec28.genruntimeconfig.cache
+/media/bayoumi/new/ubuntu/dotnetp/Lec28/obj/Debug/net7.0/ref/Lec28.dll

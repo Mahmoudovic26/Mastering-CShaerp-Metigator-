@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "command": "dotnet run",
+            "type": "shell",
+            "args": [
+                "build",
+                "/media/bayoumi/new/ubuntu/dotnetp/lec6/lec6.csproj", // Updated path to the .csproj file
+                "/property:GenerateFullPaths=true",
+                "/consoleloggerparameters:NoSummary"
+            ],
+            "group": "build",
+            "presentation": {
+                "reveal": "silent"
+            },
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

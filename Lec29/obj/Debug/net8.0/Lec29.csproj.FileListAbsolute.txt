@@ -1,0 +1,15 @@
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\Lec29.exe
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\Lec29.deps.json
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\Lec29.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\Lec29.dll
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\Lec29.pdb
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.dll
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\refint\Lec29.dll
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.pdb
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\Lec29.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec29\obj\Debug\net8.0\ref\Lec29.dll
+E:\ubuntu\dotnetp\Lec29\bin\Debug\net8.0\data\countries.json

@@ -1,0 +1,14 @@
+E:\ubuntu\dotnetp\Lec26\bin\Debug\net8.0\Lec26.exe
+E:\ubuntu\dotnetp\Lec26\bin\Debug\net8.0\Lec26.deps.json
+E:\ubuntu\dotnetp\Lec26\bin\Debug\net8.0\Lec26.runtimeconfig.json
+E:\ubuntu\dotnetp\Lec26\bin\Debug\net8.0\Lec26.dll
+E:\ubuntu\dotnetp\Lec26\bin\Debug\net8.0\Lec26.pdb
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.GeneratedMSBuildEditorConfig.editorconfig
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.AssemblyInfoInputs.cache
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.AssemblyInfo.cs
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.csproj.CoreCompileInputs.cache
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.dll
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\refint\Lec26.dll
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.pdb
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\Lec26.genruntimeconfig.cache
+E:\ubuntu\dotnetp\Lec26\obj\Debug\net8.0\ref\Lec26.dll
