@@ -109,7 +109,7 @@ namespace CAReflectionAndMetadata
                         System.Console.WriteLine(g);
                         break;
                     case Agtha a:
-                        System.Console.WriteLine(s);
+                        System.Console.WriteLine(a);
                         break;
                     case MBZ m:
                         System.Console.WriteLine(m);
@@ -129,7 +129,7 @@ namespace CAReflectionAndMetadata
             return $"{{Speed: {20}, HitPower: {13}, Strength: {7}}}";
         }
     }
-    public class Sisi
+    public class Agtha
     {
         public override string ToString()
         {
