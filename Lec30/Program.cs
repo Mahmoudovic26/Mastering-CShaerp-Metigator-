@@ -108,7 +108,7 @@ namespace CAReflectionAndMetadata
                     case Goon g:
                         System.Console.WriteLine(g);
                         break;
-                    case Sisi s:
+                    case Agtha a:
                         System.Console.WriteLine(s);
                         break;
                     case MBZ m:
